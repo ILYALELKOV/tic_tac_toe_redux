@@ -1,0 +1,22 @@
+.scoreboard {
+	width: 400px;
+	height: 100px;
+	padding: 10px;
+	margin-bottom: 50px;
+	margin-right: auto;
+	margin-left: auto;
+	font-size: 25px;
+	text-align: center;
+	border-radius: 15px;
+	background-color: #ff8252;
+}
+
+.move {
+	color: #1a1dca;
+	font-size: 30px;
+}
+
+.victory {
+	color: #59fea2;
+	font-size: 30px;
+}

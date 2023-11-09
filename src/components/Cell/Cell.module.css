@@ -1,0 +1,15 @@
+.cell {
+	width: 200px;
+	height: 200px;
+	border: 2px solid #708dc4;
+	background-color: #ebebe7;
+	cursor: pointer;
+	font-size: 110px;
+	text-align: center;
+	line-height: 1.7em;
+}
+
+.cell:hover {
+	background-color: #c7c7c5;
+	transition: 1.2s all ease;
+}
